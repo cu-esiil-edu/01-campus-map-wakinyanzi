@@ -1,6 +1,6 @@
-# First Map Template Repository
+# Stars Coding Challenge 1: Haskell Campus Map
 
-A template repository for getting started with map-making in GitHub Codespaces.
+You can find demo videos, further reading, and solution code at this [activity page on the ESIIL Learning Portal](https://cu-esiil-edu.github.io/esiil-learning-portal/pages/03-git-github/03-github-portfolio/map-stars.html)
 
 To use:
 
